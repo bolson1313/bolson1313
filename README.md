@@ -3,8 +3,6 @@
 A passionate developer interested in full-stack development, DevOps, and machine learning.
 </p>
 
----
-
 ## About Me
 
 
@@ -12,7 +10,6 @@ A passionate developer interested in full-stack development, DevOps, and machine
 - I’m currently learning: **Google Cloud Platform (GCP), and CI/CD pipelines**
 - Always exploring new technologies and clean code practices, especially in scalable and testable backend systems
 
----
 
 ## Contact
 
@@ -25,7 +22,6 @@ A passionate developer interested in full-stack development, DevOps, and machine
 </a>
 </p>
 
----
 
 ## Technologies & Tools
 
@@ -78,4 +74,3 @@ A passionate developer interested in full-stack development, DevOps, and machine
 - Investigating machine learning applications in energy and industry  
 - Improving my front-end skills with React and TypeScript 
 
----
